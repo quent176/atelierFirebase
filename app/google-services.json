@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "215796831893",
+    "firebase_url": "https://atelierfirebase.firebaseio.com",
+    "project_id": "atelierfirebase",
+    "storage_bucket": "atelierfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215796831893:android:c5901827e4411900",
+        "android_client_info": {
+          "package_name": "fr.wcs.atelierfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215796831893-84nbp0e26k7e44a4shrb08s7qi39t057.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wcs.atelierfirebase",
+            "certificate_hash": "9d792ecb57db58468d110b82e4f0f5c33731fa01"
+          }
+        },
+        {
+          "client_id": "215796831893-g59iqmisnn2jln6lsvdbtkqlqolma75g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAop4fz9x8OyQlYRG7BiTDQGktQWNsIybY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215796831893-g59iqmisnn2jln6lsvdbtkqlqolma75g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
